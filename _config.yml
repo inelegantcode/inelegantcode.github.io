@@ -23,7 +23,7 @@ description              : "asdf"
 url                      : https://inelegantcode.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/avatarPato.png# path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/patoavatar.png# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Patricio Gallardo"
-  avatar           : /assets/images/bio-photo.png# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/patoavatar.png# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Experimental Cosmologist"
   location         : "Somewhere"
   email            :
@@ -110,7 +110,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :patogallardo
+  github           : patogallardo
   gitlab           :
   google_plus      :
   keybase          :
