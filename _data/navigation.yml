@@ -4,6 +4,8 @@ main:
     url: https://scholar.google.com/citations?user=JBiKjkAAAAAJ&hl=en&oi=ao
   - title: "About"
     url: /topbar/about
+  - title: "Project Portfolio"
+    url: /topbar/portfolio
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
