@@ -1,5 +1,3 @@
-#Visualizing the numeric content of a numpy 2d array.
-
 It is customary to use matplotlib imshow to display the contents 
 of a 2d matrix on a graphical way, but for small matrices (say smaller
 than 10x10 or so) it might make sense to display the heatmap while printing
